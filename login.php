@@ -16,7 +16,7 @@ if(!isset($_COOKIE['referer'])){
 	<body>
 
 
-	<nav class="navbar navbar-expand-lg navbar-dark bg-danger">
+	<nav class="navbar navbar-expand-lg navbar-dark bg-warning">
 	<a class="navbar-brand" href="#">mood-tracker.ch</a>
 	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
@@ -66,9 +66,9 @@ HTML;
 <div class="topspacer"></div>
 
 <center>
-<a href="https://github.com/jhuesser/mood-tracker/blob/main/README.md"><button type="button" class="btn btn-success">Help</button></a>
-<a href="https://github.com/jhuesser/mood-tracker/issues"><button type="button" class="btn btn-success">Known issues</button></a>
-<a href="https://github.com/jhuesser/mood-tracker/issues/new/"><button type="button" class="btn btn-danger">Submit new issue</button></a>
+<a href="https://github.com/jhuesser/mood-tracker/blob/main/README.md"><button type="button" class="btn btn-warning">Help</button></a>
+<a href="https://github.com/jhuesser/mood-tracker/issues"><button type="button" class="btn btn-warning">Known issues</button></a>
+<a href="https://github.com/jhuesser/mood-tracker/issues/new/"><button type="button" class="btn btn-warning">Submit new issue</button></a>
 </center>
 
 </div></div></body>

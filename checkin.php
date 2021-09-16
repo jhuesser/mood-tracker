@@ -127,7 +127,7 @@ if ($tg_user !== false) {
 	else {
 		echo '
 		<div class="alert alert-danger" role="alert">
-		<strong>Error.</strong> You need to <a href="https://italianrockmafia.ch/login.php">login</a> first.
+		<strong>Error.</strong> You need to <a href="https://mood-tracker.ch/login.php">login</a> first.
 		  </div>
 	';
 	}
